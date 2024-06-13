@@ -1,5 +1,5 @@
 const names = [
-    "Arjun", "Bhavesh", "Chetan", "Divya", "Esha",
+    "Raghav", "Bhavesh", "Chetan", "Divya", "Esha",
     "Farhan", "Gauri", "Harsh", "Isha", "Jay"
 ];
 
